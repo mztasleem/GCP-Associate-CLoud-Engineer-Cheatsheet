@@ -1,4 +1,4 @@
-# GCP-Associate-CLoud-Engineer-Cheatsheet
+# GCP-Associate-Cloud-Engineer-Cheatsheet
 This cheatsheet contains all links of courses and documentation required to pass the google associate exam.
 
 
